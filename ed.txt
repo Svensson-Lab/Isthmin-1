@@ -1,0 +1,7 @@
+label	condition	replicate
+Intensity_BSA_r1_raw	BSA	1
+Intensity_BSA_r2_raw	BSA	2
+Intensity_INS_r1_raw	INS	1
+Intensity_INS_r2_raw	INS	2
+Intensity_ISM1_r1_raw	ISM1	1
+Intensity_ISM1_r2_raw	ISM1	2
